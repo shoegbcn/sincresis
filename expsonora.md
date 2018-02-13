@@ -6,6 +6,9 @@
 + [Ensemble Topogràfic](http://www.ensembletopografic.com)
 + [Shoeg](http://shoeg.bandcamp.com)
 
++ twitter: @shoegmusic
++ mail: shoegmusic@gmail.com
+
 ---
 
 **Links**
