@@ -252,14 +252,14 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 **Control**
 
-+ Conductr
-+ Lemur
-+ LK Matrix
-+ Touchable
-+ Clawpad
++ Conductr (iOS)
++ Lemur (iOS)
++ LK Matrix (iOS, Android)
++ Touchable (iOS, Android)
++ Clawpad (iOS)
++ Xotopad 2 (Win)
 + Xotopad 2
-
-+ [TUIO / Reactable](https://www.tuio.org/)
++ [TUIO (Reactable) - DIY](https://www.tuio.org/)
 
 **Sintetitzadors**
 
@@ -289,7 +289,18 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + [Wii Nunchuck](http://www.winko-erades.nl/index.php?option=com_content&view=article&id=24:use-the-wii-nunchuck-as-a-midi-controller&catid=4:windows-xp&Itemid=3)
 + [Fidget spinner](https://hackaday.com/2017/09/16/fidget-spinner-gets-useful-as-midi-controller/)
 
-**Wearables**
+**DIY (IMUs)**
+
++ Arduino UNO. [Tutorial](https://ask.audio/articles/creating-an-analog-arduino-controller-for-ableton-live)
++ Raspberry Pi. [Tutorial](http://blog.bitify.co.uk/2013/11/interfacing-raspberry-pi-and-mpu-6050.html)
++ BBC Microbit (CPU + Bluetooth LE + IMU + Serial port)
++ Intel Curie SOC / Arduino 101 (CPU + Bluetooth LE + WiFI + IMU + Serial port)
++ Teensy / Arduino + XBee chipsets
++ Adafruit Flora + XBee chipsets
+
+---
+
+## Wearables
 
 + Mi.mu gloves. [Exemple](https://www.youtube.com/watch?v=h4V8uklXCjg)
 + Remidi T8
@@ -299,18 +310,9 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Source Audio Hot Hand USB
 + Rokoko Smartsuit
 
-Projectes:   
+Altres projectes:   
 [Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004  
 [LingQL - WearAQ](http://lingql.com/wearaq/) (2017)
-
-**DIY (IMUs)**
-
-+ Arduino UNO. [Tutorial](https://ask.audio/articles/creating-an-analog-arduino-controller-for-ableton-live)
-+ Raspberry Pi. [Tutorial](http://blog.bitify.co.uk/2013/11/interfacing-raspberry-pi-and-mpu-6050.html)
-+ BBC Microbit (CPU + Bluetooth LE + IMU + Serial port)
-+ Intel Curie SOC / Arduino 101 (CPU + Bluetooth LE + WiFI + IMU + Serial port)
-+ Teensy / Arduino + XBee chipsets
-+ Adafruit Flora + XBee chipsets
 
 ---
 
@@ -352,6 +354,6 @@ Article: [DAWs for Linux](https://www.slant.co/topics/6067/~daws-for-linux)
 
 ---
 
-## Altres
+### Altres continguts 
 
 + [Crear una xarxa adhoc a Windows](https://www.howtogeek.com/214080/how-to-turn-your-windows-pc-into-a-wi-fi-hotspot/)
