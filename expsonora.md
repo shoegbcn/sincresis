@@ -179,6 +179,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + [Madrona Labs Soundplane](http://www.synthtopia.com/content/2017/11/04/madrona-labs-soundplane-updated-with-improved-tracking-sensitivity/)
 + Roli Seaboard
 + [Joué](http://cdm.link/2016/10/joue-touch-sensitive-controller-can-transform/)
++ [Sensel Morph](https://sensel.com/pages/morph)
 
 **X/Y (Bidimensionals)**
 
@@ -187,7 +188,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Roli Blocks
 + Trackpad d'un portàtil
 + Tablet de dibuix estil Wacom. ([WIN](http://www.livelab.dk/tablet2midi.php))
-+ Ratolí. ([WIN](http://www.analogx.com/contents/download/audio/mousemod/freeware.htm), [Mac OS X](http://steim.org/product/junxion/), [Mac OS X](http://www.musicunfolding.com/MU_MIDI_Controller.html))
++ Ratolí. ([Mousemod (WIN)](http://www.analogx.com/contents/download/audio/mousemod/freeware.htm), [Junxion (Mac OS X)](http://steim.org/product/junxion/), [MU MIDI (Mac OS X)](http://www.musicunfolding.com/MU_MIDI_Controller.html)), [AudioSwift (Mac OS X)](https://audioswiftapp.com/)
 	+ Laurie Spiegel [Music Mouse](https://www.youtube.com/watch?v=D-mmEvGOopk) (1985, Mac)
 	+ Vito Ricci '[Amiga Symphony](https://www.youtube.com/watch?v=T_fTWzXLSUA)' (amb Music Mouse)
 
@@ -307,6 +308,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + [Spektr](http://specktr.com/en/specktr-play/)  
 + Myo Thalmic
 + Source Audio Hot Hand USB
++ [Genki Instruments Wave](https://www.genkiinstruments.com/)
 + Rokoko Smartsuit
 
 Altres projectes:   
