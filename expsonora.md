@@ -170,17 +170,6 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 + Arturia BeatStep. [Exemple (controlant un Moog Minitaur)](https://www.youtube.com/watch?v=5hV5oHgWAn4)
 
-**Amb sensors de pressió**
-
-+ Eowave Ribbon 2
-+ Expressive E Touche
-+ Haken Continuum. [Exemple](https://www.youtube.com/watch?v=Mrmp2EaVChI)
-+ Linnstrument
-+ [Madrona Labs Soundplane](http://www.synthtopia.com/content/2017/11/04/madrona-labs-soundplane-updated-with-improved-tracking-sensitivity/)
-+ Roli Seaboard
-+ [Joué](http://cdm.link/2016/10/joue-touch-sensitive-controller-can-transform/)
-+ [Sensel Morph](https://sensel.com/pages/morph)
-
 **X/Y (Bidimensionals)**
 
 + Korg Nanokey Studio Pad XY
@@ -191,6 +180,17 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Ratolí. ([Mousemod (WIN)](http://www.analogx.com/contents/download/audio/mousemod/freeware.htm), [Junxion (Mac OS X)](http://steim.org/product/junxion/), [MU MIDI (Mac OS X)](http://www.musicunfolding.com/MU_MIDI_Controller.html)), [AudioSwift (Mac OS X)](https://audioswiftapp.com/)
 	+ Laurie Spiegel [Music Mouse](https://www.youtube.com/watch?v=D-mmEvGOopk) (1985, Mac)
 	+ Vito Ricci '[Amiga Symphony](https://www.youtube.com/watch?v=T_fTWzXLSUA)' (amb Music Mouse)
+
+**Multidimensionals**
+
++ Eowave Ribbon 2
++ Expressive E Touche
++ Haken Continuum. [Exemple](https://www.youtube.com/watch?v=Mrmp2EaVChI)
++ Linnstrument
++ [Madrona Labs Soundplane](http://www.synthtopia.com/content/2017/11/04/madrona-labs-soundplane-updated-with-improved-tracking-sensitivity/)
++ Roli Seaboard
++ [Joué](http://cdm.link/2016/10/joue-touch-sensitive-controller-can-transform/)
++ [Sensel Morph](https://sensel.com/pages/morph)
 
 ---
 
