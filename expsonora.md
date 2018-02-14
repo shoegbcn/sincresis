@@ -272,10 +272,10 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 **Captura de l'acceleròmetre i giroscopi per a iOS/Android**
 
-+ Mrmr (iOS)
++ [Mrmr](https://itunes.apple.com/es/app/mrmr-legacy/id621730129?mt=8) (iOS)
 + [gyrOSC](https://ipafiles.com/products/com.bitshape.gyrosc/) (iOS)
-+ andOSC (Android)
-+ control (Android)
++ [andOSC](https://play.google.com/store/apps/details?id=cc.primevision.andosc&hl=es_419) (Android)
++ [control](http://charlie-roberts.com/Control/) (Android)
 
 **Controladors gesturals simples**
 
@@ -345,3 +345,9 @@ Article: [DAWs for Linux](https://www.slant.co/topics/6067/~daws-for-linux)
 
 + Processing / P5
 + OpenFrameworks (C++)
+
+---
+
+## Altres
+
++ [Crear una xarxa adhoc a Windows](https://www.howtogeek.com/214080/how-to-turn-your-windows-pc-into-a-wi-fi-hotspot/)
