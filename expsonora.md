@@ -5,7 +5,6 @@
 + [Site personal](http://www.carlosmartorell.net)
 + [Ensemble Topogràfic](http://www.ensembletopografic.com)
 + [Shoeg](http://shoeg.bandcamp.com)
-
 + twitter: @shoegmusic
 + mail: shoegmusic@gmail.com
 
@@ -14,7 +13,7 @@
 **Links**
 
 + [Create Digital Music](http://cdm.link/)  
-+ [Synthtopia](http://www.synthtopia.com)
++ [Synthtopia](http://www.synthtopia.com/content/category/computer-music/midi-controllers/)
 
 
 ---
