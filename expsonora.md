@@ -5,8 +5,8 @@
 + [Site personal](http://www.carlosmartorell.net)
 + [Ensemble Topogràfic](http://www.ensembletopografic.com)
 + [Shoeg](http://shoeg.bandcamp.com)
-+ twitter: @shoegmusic
-+ mail: shoegmusic@gmail.com
++ twitter: [@shoegmusic](https://twitter.com/shoegmusic)
++ mail: shoegmusic [at] gmail.com
 
 ---
 
