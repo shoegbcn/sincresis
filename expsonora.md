@@ -234,6 +234,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Roland V Drums
 + Oval
 + [Keith McMillen Boppad](https://cycling74.com/articles/hardware-overview-boppad)
++ [Sensory Percussion](http://sunhou.se/)
 
 **Acordió**
 
@@ -257,6 +258,8 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Touchable
 + Clawpad
 + Xotopad 2
+
++ [TUIO / Reactable](https://www.tuio.org/)
 
 **Sintetitzadors**
 
