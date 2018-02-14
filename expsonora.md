@@ -289,6 +289,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Skoog
 + [Wii Nunchuck](http://www.winko-erades.nl/index.php?option=com_content&view=article&id=24:use-the-wii-nunchuck-as-a-midi-controller&catid=4:windows-xp&Itemid=3)
 + [Fidget spinner](https://hackaday.com/2017/09/16/fidget-spinner-gets-useful-as-midi-controller/)
++ [OWOW Wiggle](http://www.synthtopia.com/content/2017/11/16/owow-intros-wiggle-kit-gestural-audio-effects-system/)
 
 **DIY (IMUs)**
 
