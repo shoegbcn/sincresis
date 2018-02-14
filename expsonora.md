@@ -94,6 +94,7 @@ S. XVII - [Registres d'orgue](https://www.youtube.com/watch?v=oyesfXunWsw) / [Wi
 
 + [TCP](https://es.wikipedia.org/wiki/Transmission_Control_Protocol)
 + [UDP](https://es.wikipedia.org/wiki/User_Datagram_Protocol)
++ [Diferències entre TCP i UDP](https://es.wikipedia.org/wiki/User_Datagram_Protocol#Comparativa_entre_UDP_y_TCP_(Transmission_Control_Protocol))
 
 ---
 
