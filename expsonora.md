@@ -191,6 +191,8 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Roli Seaboard
 + [Joué](http://cdm.link/2016/10/joue-touch-sensitive-controller-can-transform/)
 + [Sensel Morph](https://sensel.com/pages/morph)
++ [Buchla Thunder](https://web.archive.org/web/20060516153516/http://www.buchla.com/historical/thunder/index.html)
++ [Buchla Lightning](https://web.archive.org/web/20060825143152/http://www.buchla.com/lightning/)
 
 ---
 
@@ -235,6 +237,8 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Oval
 + [Keith McMillen Boppad](https://cycling74.com/articles/hardware-overview-boppad)
 + [Sensory Percussion](http://sunhou.se/)
++ [MalletStation](http://www.synthtopia.com/content/2017/11/11/pearl-kmi-intro-malletstation-electronic-mallet-controller/)
++ [Buchla Marimba Lumina](https://en.wikipedia.org/wiki/Marimba_Lumina)
 
 **Acordió**
 
