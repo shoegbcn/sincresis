@@ -24,31 +24,27 @@ TECNOLOGIA PER A L'EXPRESSIÓ SONORA
 
 [MIDI Controller](https://en.wikipedia.org/wiki/MIDI_controller)
 
+Exemples proposats
 + [Piano&Dancer](https://vimeo.com/182424752)  
-*By Pablo Palacio*
-
-Piano&Dancer is an interactive stage work for a dancer and a mechanical piano. In this work the piano becomes a sonic extension of the dancer's body activity. The physical gestures and movement qualities of the dancer are translated into music in real time by the instrument. The piano embodies the expressivity of the dance expanding it to another sensory modality.
-
+*By Pablo Palacio* Piano&Dancer is an interactive stage work for a dancer and a mechanical piano. In this work the piano becomes a sonic extension of the dancer's body activity. The physical gestures and movement qualities of the dancer are translated into music in real time by the instrument. The piano embodies the expressivity of the dance expanding it to another sensory modality.
 + [Philip Glass - Mad Rush](https://www.youtube.com/watch?v=JthxVHkRT9Y)    
-
 + [Michael Brecker - EWI solo (1986)](https://www.youtube.com/watch?v=xYiwZYGokdQ). Steinerphone a Oberheim Xpander
 
 ## Per què?
 
-+ [Acusmàtica](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta)    
-+ [Vinculació entre l'observació i expressió sonora i la dopamina](http://www.medicaldaily.com/listening-classical-music-enhances-gene-activity-update-mozart-effect-325680)
-	+ [DeJohnette, Hancock, Holland & Metheny - Jack In](https://www.youtube.com/watch?v=1c7YKVQ-Bxo)
-	+ [Jocs: relació entre informació visual i sonora - David Kanaga (aka Mickeymousing / "The Coin Effect")](http://wombflashforest.blogspot.com.es/2011/07/soundtracks-1.html)
-
-*For every change of state in a game, there should be a corresponding change of state in its soundtrack.*  
-
-+ Resolució física i textura
+Eines disponibles: condicionament de l'expressió 
++ [Opcions actuals al mercat (controllers.cc)](http://controllers.cc)
+	+ [Set-up dels Daft Punk (2008)](https://www.youtube.com/watch?v=gIk4oFkorbc)
++ Relació entre el cos (resolució) i l'eina
 	+ [Edu Comelles & Javier Piñango (2016)](https://www.youtube.com/watch?v=Zs1vnJmpTG0)
 
-+ [Opcions actuals al mercat (controllers.cc)](http://controllers.cc)
+La relació amb l'espectador
++ [Visibilització de l'expressió - Acusmàtica](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta)
++ [Vinculació entre l'expressió i el sistema dopaminèrgic](https://www.nature.com/articles/nn.2726),[2](http://www.medicaldaily.com/listening-classical-music-enhances-gene-activity-update-mozart-effect-325680)
+	+ [DeJohnette, Hancock, Holland & Metheny - Jack In](https://www.youtube.com/watch?v=1c7YKVQ-Bxo)
++ [Videojocs: relació entre informació visual i sonora - David Kanaga (aka Mickeymousing / "The Coin Effect")](http://wombflashforest.blogspot.com.es/2011/07/soundtracks-1.html) *For every change of state in a game, there should be a corresponding change of state in its soundtrack.*
 + [Estètica: LCD Soundsystem - Losing my edge](https://en.wikipedia.org/wiki/Losing_My_Edge)  
 	+ [Vídeo](https://www.youtube.com/watch?v=gIk4oFkorbc)
-	+ [Set-up dels Daft Punk (2008)](https://www.youtube.com/watch?v=gIk4oFkorbc)
 
 ## Com?
 
