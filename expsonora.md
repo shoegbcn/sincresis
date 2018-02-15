@@ -262,7 +262,6 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 + Touchable (iOS, Android)
 + Clawpad (iOS)
 + Xotopad 2 (Win)
-+ Xotopad 2
 + [TUIO (Reactable) - DIY](https://www.tuio.org/)
 + [AC Sabre (iOS)](http://www.synthtopia.com/content/2017/12/05/ac-sabre-gestural-controller-updated-with-mpe-support/)
 
