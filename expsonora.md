@@ -35,6 +35,7 @@ Exemples proposats
 Eines disponibles: condicionament de l'expressió 
 + [Opcions actuals al mercat (controllers.cc)](http://controllers.cc)
 	+ [Set-up dels Daft Punk (2008)](https://www.youtube.com/watch?v=gIk4oFkorbc)
++ Noves opcions per sonificar el moviment corporal diferents dels instruments mecànics o tradicionals.
 + Relació entre el cos (resolució) i l'eina
 	+ [Edu Comelles & Javier Piñango (2016)](https://www.youtube.com/watch?v=Zs1vnJmpTG0)
 
@@ -95,27 +96,31 @@ S. XVII - [Registres d'orgue](https://www.youtube.com/watch?v=oyesfXunWsw) / [Wi
 
 ## Controladors bàsics
 
-**Botons (toggle/switch)**   
- 
-+ Monome64   
-+ Pedalera: iRig Blueboard 
-+ Livid Builder  
-+ [Teclat d'ordinador](https://www.youtube.com/watch?v=NtWRIHYDzWQ)  
-+ [Comandament de videoconsola](https://www.youtube.com/watch?v=NtWRIHYDzWQ), Arcade Buttons 
+**Botons (toggle o momentary/switch)**   
+
++ [Arcade Buttons](http://www.instructables.com/id/Arcade-Button-MIDI-Controller/)
++ [Comandament de videoconsola](https://www.youtube.com/watch?v=NtWRIHYDzWQ) 
++ [Teclat d'ordinador](https://www.youtube.com/watch?v=NtWRIHYDzWQ)
 + Tinta conductiva: Bare Conductive Touch Board, [DIY](http://www.synthtopia.com/content/2017/09/25/make-a-diy-touch-pad-controller/)
 + Touch HAT per a Raspberry PI. [Exemple](https://www.facebook.com/oudeislevigan/posts/1739047282809989?pnref=story)
 
 **Piezoelèctric**
+
+[Funcionament](https://en.wikipedia.org/wiki/Piezoelectric_sensor)
 
 + TET Pulse Controller
 + Beatsneaks
 
 **Pads**
 
+Botons momentary amb [velocity/aftertouch](http://forum.djtechtools.com/showthread.php?t=11835&s=0f2a40d1bfe57c5e6551f66c42ca7777&p=104989&viewfull=1#post104989)
+
++ Monome64   
++ Pedalera: iRig Blueboard 
 + Ableton Push
 + Akai MPC. [Exemple - araabMUZIK](https://www.youtube.com/watch?v=lmEhCDRvQKA)
 + Novation Launchpad
-+ Simmons Drum Pads
++ [Livid Builder](https://lividinstruments.com/products/builder/)
 
 **Pads multidimensionals**
 
@@ -194,7 +199,9 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 ## Controladors "instrumentals"
 
-**Teclats**   
+**Teclats**
+
+Botons momentary amb nota assignada i [velocity/aftertouch](http://forum.djtechtools.com/showthread.php?t=11835&s=0f2a40d1bfe57c5e6551f66c42ca7777&p=104989&viewfull=1#post104989)
   
 + [controllers.cc](https://controllers.cc/) - seleccionar "Keyboards"  
 + [Keytars](https://es.wikipedia.org/wiki/Keytar)
@@ -229,6 +236,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 **Percussió / bateria**
 
++ Simmons Drum Pads
 + Roland V Drums
 + Oval
 + [Keith McMillen Boppad](https://cycling74.com/articles/hardware-overview-boppad)
