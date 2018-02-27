@@ -321,8 +321,9 @@ Botons momentary amb nota assignada i [velocity/aftertouch](http://forum.djtecht
 + [Genki Instruments Wave](https://www.genkiinstruments.com/)
 + Rokoko Smartsuit
 
-Altres projectes:   
-[Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004  
+Altres projectes:  
+[Sensorband](http://www.musicainformatica.org/topics/sensorband.php) (1993)
+[Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004)  
 [LingQL - WearAQ](http://lingql.com/wearaq/) (2017)
 
 ---
