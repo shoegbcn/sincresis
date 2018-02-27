@@ -57,7 +57,8 @@ La relació amb l'espectador
 
 ## Inicis
   
-[Història dels automatismes](http://historymesh.com/object/chinese-android/?story=automatons)  
+[Història dels automatismes](http://historymesh.com/object/chinese-android/?story=automatons)
+[Història dels sintetitzadors](http://120years.net/)
 
 S.I - [Orgue de vent](https://heronofalexandria.wikispaces.com/Wind+Powered+Organ) ([Heró d'Alexandria](https://en.wikipedia.org/wiki/Hero_of_Alexandria))  
 S. IX - [Flauta automàtica](http://historymesh.com/object/automatic-flute-player/?story=automatons) (Banu Musa)   
