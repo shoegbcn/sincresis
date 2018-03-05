@@ -199,7 +199,7 @@ Article: [How-to MIDI interface your toys](https://hackaday.com/2017/06/30/how-t
 
 ---
 
-## Controladors "instrumentals"
+## Controladors que emulen instruments clàssics
 
 **Teclats**
 
@@ -322,8 +322,13 @@ Botons momentary amb nota assignada i [velocity/aftertouch](http://forum.djtecht
 + [Genki Instruments Wave](https://www.genkiinstruments.com/)
 + Rokoko Smartsuit
 
-Altres projectes:  
+
+Pioners:
+[Michael Waisvisz's The Hands](http://www.crackle.org/TheHands.htm) (1984)
+[Laetitia Sonami's Lady's Glove](http://sonami.net/ladys-glove/) (1991)
 [Sensorband](http://www.musicainformatica.org/topics/sensorband.php) (1993)
+
+Altres projectes:
 [Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004)  
 [LingQL - WearAQ](http://lingql.com/wearaq/) (2017)
 
