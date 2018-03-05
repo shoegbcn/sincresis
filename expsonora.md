@@ -258,7 +258,8 @@ Botons momentary amb nota assignada i [velocity/aftertouch](http://forum.djtecht
 
 ## Dispositius tàctils
 
-[Article a CDM sobre dispositius tàctils](http://cdm.link/2017/03/329-ipad-looks-like-affordable-music-app-machine/)
++ [Sensitive surfaces @ s+v+m](http://s-v-m.tumblr.com/tagged/sensitive-interfaces)
++ [Article a CDM sobre dispositius tàctils](http://cdm.link/2017/03/329-ipad-looks-like-affordable-music-app-machine/)
 
 **Control**
 
@@ -324,13 +325,13 @@ Botons momentary amb nota assignada i [velocity/aftertouch](http://forum.djtecht
 
 
 Pioners:
-[Michael Waisvisz's The Hands](http://www.crackle.org/TheHands.htm) (1984)
-[Laetitia Sonami's Lady's Glove](http://sonami.net/ladys-glove/) (1991)
-[Sensorband](http://www.musicainformatica.org/topics/sensorband.php) (1993)
++ [Michael Waisvisz's The Hands](http://www.crackle.org/TheHands.htm) (1984)
++ [Laetitia Sonami's Lady's Glove](http://sonami.net/ladys-glove/) (1991)
++ [Sensorband](http://www.musicainformatica.org/topics/sensorband.php) (1993)
 
 Altres projectes:
-[Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004)  
-[LingQL - WearAQ](http://lingql.com/wearaq/) (2017)
++ [Antoinette LaFarge - Demotic](http://www.antoinettelafarge.com/demotic.html) (2004)  
++ [LingQL - WearAQ](http://lingql.com/wearaq/) (2017)
 
 ---
 
