@@ -10,14 +10,6 @@
 
 ---
 
-**Links**
-
-+ [Create Digital Music](http://cdm.link/)  
-+ [Synthtopia](http://www.synthtopia.com/content/category/computer-music/midi-controllers/)
-
-
----
-
 TECNOLOGIA PER A L'EXPRESSIÓ SONORA
 
 ## Què? 
@@ -385,4 +377,11 @@ Article: [DAWs for Linux](https://www.slant.co/topics/6067/~daws-for-linux)
 + [BCNProgLab](http://www.bcnproglab.es/)
 + [Cinestesia](http://www.cinestesia.io/proyecto/)
 + [Mònica Rikic](http://monicarikic.com/)
+
+---
+
+**Links**
+
++ [Create Digital Music](http://cdm.link/)  
++ [Synthtopia](http://www.synthtopia.com/content/category/computer-music/midi-controllers/)
 
