@@ -376,3 +376,13 @@ Article: [DAWs for Linux](https://www.slant.co/topics/6067/~daws-for-linux)
 ### Altres continguts 
 
 + [Crear una xarxa adhoc a Windows](https://www.howtogeek.com/214080/how-to-turn-your-windows-pc-into-a-wi-fi-hotspot/)
+
+---
+
+### Projectes
+
++ [Konic Thtr](https://koniclab.info/)
++ [BCNProgLab](http://www.bcnproglab.es/)
++ [Cinestesia](http://www.cinestesia.io/proyecto/)
++ [Mònica Rikic](http://monicarikic.com/)
+
